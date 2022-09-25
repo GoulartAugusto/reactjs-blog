@@ -12,7 +12,7 @@ const Post = ({ post }) => {
             {
                 (post.body).length <= 25
                 ? post.body
-                : `${(post.body.slice(0, 25))}..`
+                : `${(post.body.slice(0, 25))}...`
             }   
         </p>
     </article>

@@ -21,14 +21,8 @@
     {
       "id": 4,
       "title": "My Fourth Post",
-      "datetime": "September 25, 2022 20:20:11",
-      "body": "Lorem ipsum Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit"
-    },
-    {
-      "id": 5,
-      "title": "Testing Submit Post",
-      "dateTime": "25 September, 2022 9:33:04 PM",
-      "body": "This is the text of the post... the edit of the post is it."
+      "datetime": "27 September, 2022 6:07:18 PM",
+      "body": "Testing the edit button"
     }
   ]
 }
